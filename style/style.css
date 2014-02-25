@@ -6,4 +6,15 @@
     padding:0px;
     border:0px;
 }
-
+nav{
+    width:100px;
+    height:100px;
+    float:left;
+    background-color:green;
+}
+section{
+    width:100px;
+    height:100px;
+    float:left;
+    background-color:red;
+}
